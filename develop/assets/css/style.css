@@ -1,3 +1,5 @@
+/* Style Page */
+
 * {
     box-sizing: border-box;
     padding: 0;
@@ -7,6 +9,7 @@
 body {
     background-color: #d9dcd6;
 }
+/* header style starts */
 
 header {
     padding: 20px;
@@ -23,6 +26,8 @@ header h1 {
 header h1 .seo {
     color: #d9dcd6;
 }
+ 
+/* nav bar style starts */
 
 header nav {
     padding-top: 15px;
@@ -47,7 +52,7 @@ a {
 }
 
 p {
-    font-size: 20px;
+    font-size: 16px;
 }
 
 /* Hero style starts */
@@ -62,7 +67,7 @@ p {
 }
 
 
-/* floats start here */
+/* floats style start */
 
 .float-left {
     float: left;
@@ -74,7 +79,7 @@ p {
     margin-left: 25px;
 }
 
-/* main starts here */ 
+/* main style starts */ 
 
 main {
     width: 75%;
@@ -82,7 +87,7 @@ main {
     margin-left: 20px;
 }
 
-/* benefits style starts here */
+/* benefits style starts */
 
 .benefits {
     margin-right: 20px;
@@ -112,7 +117,7 @@ main {
     max-width: 150px;
 }
 
-/* search engine optomization starts */
+/* search engine optomization style starts */
 
 section {
     margin-bottom: 20px;
@@ -132,6 +137,8 @@ section h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
+/* footer style starts */
 
 footer {
     padding: 30px;
