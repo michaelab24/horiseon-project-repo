@@ -2,4 +2,6 @@
 
 Horiseon is a company that specializes in search engine optimization. This website highlights their services and the benefits of those services, while being an optomized website in itself.
 
-Github URL:
+Github URL: https://github.com/michaelab24/horiseon-project-repo/tree/main
+
+website URL: help
